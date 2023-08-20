@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Artyom Davydov
+- 👋 Hi, I’m Artem Davydov
 - 👀 I’m DevOps Engineer
 - 📫 https://t.me/crazydavidoff
 
